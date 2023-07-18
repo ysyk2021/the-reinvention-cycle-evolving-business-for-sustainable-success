@@ -1,8 +1,5 @@
 # Conclusion
 
-Conclusion
-==========
-
 Recap of Key Points
 -------------------
 
