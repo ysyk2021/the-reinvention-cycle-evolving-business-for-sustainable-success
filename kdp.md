@@ -14,7 +14,6 @@ By the end of this book, you will have a clear understanding of what it takes to
 
 So if you are ready to take your business to the next level, embrace change, and achieve sustainable success, then join us on this journey of self-discovery and business evolution. Let's unlock our full potential together and build a better future for ourselves and our communities.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
