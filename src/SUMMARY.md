@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [Explanation of the book's purpose](chapter-1-1.md)
   - [Importance of business evolution in modern times](chapter-1-2.md)
-  - [Overview of the book's contents](chapter-1-3.md)
 - [Chapter 1: Understanding the Reinvention Cycle](chapter-2.md)
   - [What is the reinvention cycle?](chapter-2-1.md)
   - [Benefits and limitations of business evolution](chapter-2-2.md)
