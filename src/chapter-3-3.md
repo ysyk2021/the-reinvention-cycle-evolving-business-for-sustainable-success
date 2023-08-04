@@ -1,4 +1,4 @@
-Chapter X: Identifying Areas for Improvement
+Identifying Areas for Improvement
 ============================================
 
 Introduction

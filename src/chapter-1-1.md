@@ -1,4 +1,4 @@
-Chapter X: Explanation of the Book's Purpose
+Explanation of the Book's Purpose
 ============================================
 
 Introduction

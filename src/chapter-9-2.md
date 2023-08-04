@@ -1,9 +1,9 @@
-Chapter X: Different Approaches to Sustainable Business Practices
+Different Approaches to Sustainable Business Practices
 =================================================================
 
 In this chapter, we explore various approaches to sustainable business practices that organizations can adopt to drive long-term success. We delve into different models, frameworks, and strategies that can help businesses integrate sustainability into their core operations and make positive contributions to the environment, society, and the economy.
 
-1. Triple Bottom Line (TBL)
+1\. Triple Bottom Line (TBL)
 ---------------------------
 
 The Triple Bottom Line approach considers three dimensions of sustainability:
@@ -14,7 +14,7 @@ The Triple Bottom Line approach considers three dimensions of sustainability:
 
 The TBL framework enables businesses to evaluate performance holistically and balance social and environmental considerations with financial goals.
 
-2. Circular Economy
+2\. Circular Economy
 -------------------
 
 The Circular Economy approach aims to minimize waste and maximize resource efficiency throughout the product life cycle. Key principles include:
@@ -26,7 +26,7 @@ The Circular Economy approach aims to minimize waste and maximize resource effic
 
 Adopting a circular economy model helps businesses reduce environmental impact, enhance resource resilience, and uncover new revenue streams.
 
-3. Shared Value
+3\. Shared Value
 ---------------
 
 Shared Value involves aligning business strategies with social needs to create mutually beneficial outcomes. Key aspects include:
@@ -38,7 +38,7 @@ Shared Value involves aligning business strategies with social needs to create m
 
 Shared Value enables organizations to generate societal benefits while improving their competitive advantage and long-term viability.
 
-4. Sustainable Supply Chains
+4\. Sustainable Supply Chains
 ----------------------------
 
 Adopting sustainable supply chain practices involves integrating environmental and social considerations into procurement, production, and distribution processes. Key components include:
@@ -50,7 +50,7 @@ Adopting sustainable supply chain practices involves integrating environmental a
 
 Implementing sustainable supply chains not only reduces environmental impact but also strengthens reputation and enhances operational efficiency.
 
-5. Impact Investing
+5\. Impact Investing
 -------------------
 
 Impact investing involves making financial investments in organizations that generate positive social or environmental impact alongside financial returns. Key elements include:

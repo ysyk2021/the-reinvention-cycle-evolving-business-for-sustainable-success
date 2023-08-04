@@ -1,4 +1,4 @@
-Chapter X: Tools for Analyzing Your Business Performance
+Tools for Analyzing Your Business Performance
 ========================================================
 
 Introduction
