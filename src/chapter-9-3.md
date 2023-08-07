@@ -53,5 +53,3 @@ Conclusion
 ----------
 
 Integrating sustainability into your business model requires a strategic approach that aligns with core business objectives, engages stakeholders, sets clear goals, implements sustainable practices, and measures progress. By embracing sustainability as a fundamental part of your organization, you can create long-term value, enhance brand reputation, and contribute to a more sustainable future.
-
-*Note: This chapter is a fictional creation for illustrative purposes only and does not correspond to an actual book.*

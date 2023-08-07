@@ -66,5 +66,3 @@ Conclusion
 ----------
 
 There are various approaches organizations can take to incorporate sustainable business practices into their operations. Whether through the Triple Bottom Line, Circular Economy, Shared Value, Sustainable Supply Chains, or Impact Investing, businesses can integrate sustainability principles into their strategies, create positive impacts on society and the environment, and achieve long-term success.
-
-*Note: This chapter is a fictional creation for illustrative purposes only and does not correspond to an actual book.*
