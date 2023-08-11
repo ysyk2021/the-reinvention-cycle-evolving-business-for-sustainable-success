@@ -17,9 +17,6 @@ So if you are ready to take your business to the next level, embrace change, and
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
-
-Sure! Here are 20 Amazon search keywords related to "The Reinvention Cycle: Evolving Business for Sustainable Success":
-
 1. Business evolution
 2. Sustainability
 3. Innovation
