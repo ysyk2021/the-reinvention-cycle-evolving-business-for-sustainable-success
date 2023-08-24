@@ -1,5 +1,3 @@
-How to Integrate Sustainability into Your Business Model
-===================================================================
 
 In this chapter, we explore practical steps and strategies for integrating sustainability into your business model. We discuss the importance of aligning sustainability with core business objectives, engaging stakeholders, setting goals, implementing sustainable practices, and measuring progress.
 

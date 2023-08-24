@@ -1,5 +1,3 @@
-Chapter 3: Planning for Change
-==============================
 
 Planning for change is essential for achieving sustainable success in business. In this chapter, we will explore strategies for planning for change in your business.
 

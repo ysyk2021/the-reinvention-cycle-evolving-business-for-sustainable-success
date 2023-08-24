@@ -1,5 +1,3 @@
-Chapter 7: Building Resilience
-==============================
 
 In today's rapidly changing business landscape, building resilience is essential for sustainable success. In this chapter, we will explore strategies for building resilience in your business.
 

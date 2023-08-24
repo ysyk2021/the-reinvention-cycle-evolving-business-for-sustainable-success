@@ -1,5 +1,3 @@
-Chapter 5: Measuring Progress and Performance
-=============================================
 
 Measuring progress and performance is an essential part of the reinvention cycle. It allows businesses to track their progress towards goals and objectives, identify areas for improvement, and make necessary adjustments to achieve sustainable success.
 

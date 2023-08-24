@@ -1,5 +1,3 @@
-Chapter 8: Embracing Sustainability
-===================================
 
 Embracing sustainability is essential for achieving sustainable success through the reinvention cycle. In this chapter, we will explore the importance of sustainability in modern business, different approaches to sustainable business practices, and how to integrate sustainability into your business model.
 

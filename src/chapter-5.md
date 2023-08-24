@@ -1,5 +1,3 @@
-Chapter 4: Implementing Change
-==============================
 
 Implementing change is a critical component of business evolution, but it can also be challenging and complex. In this chapter, we will explore strategies for implementing effective change in your business.
 

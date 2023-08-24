@@ -1,5 +1,3 @@
-Building Resilience into Your Business Model
-=======================================================
 
 In this chapter, we explore the importance of building resilience into your business model to navigate uncertainties, disruptions, and changing market dynamics. We discuss strategies and practices that help organizations adapt, recover, and thrive in the face of challenges.
 

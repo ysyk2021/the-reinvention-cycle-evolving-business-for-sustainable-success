@@ -1,5 +1,3 @@
-Importance of Sustainability in Modern Business
-==========================================================
 
 In this chapter, we explore the significance of sustainability in modern business and its role in driving long-term success. We delve into the environmental, social, and economic aspects of sustainability and highlight why it should be a central focus for organizations today.
 
